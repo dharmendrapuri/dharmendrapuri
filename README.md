@@ -1,4 +1,4 @@
 # Portfolio Website.
-Web Portfolio to showcase projects and skills in better manner. 
+This is my website where you can know me better 
 
 
