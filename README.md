@@ -1,8 +1,9 @@
 # Portfolio
 Hello world!
-<div>***I hope you are having a great day***</div>
+***I hope you are having a great day***
 <div>Let me introduce myself to you. </div>
 <div>I am a recent IT graduate from Victoria University Sydney, and actively looking for an opportunity in data analytics field. Above all, I am a passionate data aspirant - this is my mission to become an expert in data science. I hope you all will help me in this exciting journey of mine!</div>
+
 ### My Technical skills
 <ul>
   <li> Tableau- I am a Tableau Desktop Specialist</li>
