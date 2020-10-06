@@ -1,9 +1,9 @@
 # Portfolio
 Hello world!
-***I hope you are having a great day***
-Let me introduce myself to you. 
-I am a recent IT graduate from Victoria University Sydney, and actively looking for an opportunity in data analytics field. Above all, I am a passionate data aspirant - this is my mission to become an expert in data science. I hope you all will help me in this exciting journey of mine!
-My Technical skills
+<div>***I hope you are having a great day***</div>
+<div>Let me introduce myself to you. </div>
+<div>I am a recent IT graduate from Victoria University Sydney, and actively looking for an opportunity in data analytics field. Above all, I am a passionate data aspirant - this is my mission to become an expert in data science. I hope you all will help me in this exciting journey of mine!</div>
+### My Technical skills
 <ul>
   <li> Tableau- I am a Tableau Desktop Specialist</li>
   <li> Power BI - I am learning it, and I have Power BI certification exam on 16/10/2020 </li>
@@ -15,7 +15,7 @@ My Technical skills
   <li>HTML & CSS- I know them in intermediate level </li>
   </ul>
   
-  My Technical Bucket Skill List
+  ### My Technical Bucket Skill List
   <ul>
   <li>Python-This is my crush! I have been watching it for the past few months, but, R will be upset if I move to Python now. So, I will start it after few months when I become proficient in R at a certain level :)</li>
   <li>Azure Data Engineer Certification -DP200 & DP 201, I  will do it by coming three months time. I felt learning cloud is very important, and Microsoft offers interesting cloud services. I will be doing some projects in Azure in the near future. 
@@ -23,7 +23,7 @@ My Technical skills
   <li>Machine Learning-I will start honing my skills in ML very soon probably from end of this month</li>
   </ul>
   
-  My Learning Resources
+ ### My Learning Resources
   <ul>
   <li> Kaggle</li>
   <li>LinkedIn Learning</li>
@@ -31,7 +31,7 @@ My Technical skills
   <li>Udemy</li>
   </ul>
   
-  At the moment, I have limited number of projects in Github, I am still working to gather it and push it. Stay tuned!
-  -----------------------------------HAPPY ANALYTICS------------------------------------------------------------------
+  ***At the moment, I have limited number of projects in Github, I am still working to gather it and push it. Stay tuned!
+  -----------------------------------HAPPY ANALYTICS------------------------------------------------------------------***
 
 
