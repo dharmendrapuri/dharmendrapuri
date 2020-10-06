@@ -30,6 +30,11 @@ Hello world!
   <li>Datacamp</li>
   <li>Udemy</li>
   </ul>
+  ### My Website
+  https://dharmendrapuri.github.io/dharmendrapuri/
+  
+  ### My LinkedIn
+  https://www.linkedin.com/in/dharmendrapuri/
   
   ***At the moment, I have limited number of projects in Github, I am still working to gather it and push it. Stay tuned!
   -----------------------------------HAPPY ANALYTICS------------------------------------------------------------------***
