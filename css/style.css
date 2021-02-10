@@ -498,6 +498,7 @@ body.offcanvas {
 margin-left: 10px;}
 
 .about-desc h3 {
+  text-align: justify;
   font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 5px;
