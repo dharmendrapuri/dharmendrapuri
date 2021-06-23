@@ -2,34 +2,27 @@
 Hello world!
 ***I hope you are having a great day***
 <div>Let me introduce myself to you. </div>
-<div>I am a recent IT graduate from Victoria University Sydney, and actively looking for an opportunity in data analytics field. Above all, I am a passionate data aspirant - this is my mission to become an expert in data science. I hope you all will help me in this exciting journey of mine!</div>
-
+<div>IHaving 1 year of experience related to data analytics + web development + digital marketing and 5 years’ experience in hotel industry, I built complex Tableau products for a consulting start-up, built websites using WordPress, ran successful social media campaigns, and serviced the New Zealand cricket team (and 60,000+ other customers) at 5-start Sydney venues. 
+<div>Coming out of the hospitality industry and penetrating through the IT industry with a passionate mindset, I enjoy building relationships with people from diverse backgrounds and pride myself in impeccable end-to-end customer service. Complementing this are relevant degrees in Information Technology and Hotel Management, and professional IT certifications, which provide me with a strong baseline to grow my serious long-term career in IT. 
+<div>Through my diverse experiences, I have also become highly consistent and adaptable. I am excited to apply my skills on relevant junior IT roles and grow exponentially. 
 ### My Technical skills
 <ul>
-  <li> Tableau- I am a Tableau Desktop Specialist</li>
-  <li> Power BI - I am learning it, and I have Power BI certification exam on 16/10/2020 </li>
-  <li>Advanced Excel- I can create beautiful pivot chart and dashboards, and can analyse data in Excel using formula, VLOOKUP, and other Excel functions.</li>
-  <li>Advanced SQL- I know all the basic and intermediate SQL statements upto windows function, partitioning, and stored procedure. Planning to add more advanced knowledge in the coming months.
-    <li>R Programming- I know data wrangling, data analysis, and some machine learning with R, I am practicing it everyday from Datacamp</li>
-  <li> Statistics - I know about basic statistics, and working on it to gain more advanced knowledge </li>
-  <li> Machine learning - learned about Regression Analysis, Association Rule Mining, Classification, Clustering, and Decisiion Tree in Uni, but, I am starting it over again to build the solid knowledge</li>
-  <li>HTML & CSS- I know them in intermediate level </li>
+  <li> Good Knowledge with hands on projects: Data Analysis & Visualisation (Tableau, PowerBI, Excel, Power Query) | Database Design (Star, Snowflakes Schema) | SQL (DDL, DML, TSQL) | Web Development (HTML, CSS, PHP) | Designing (Canva, Lucid Chart) | Project Management Tools (Trello, Slack)
+</li>
+  <li>Exposure: Data Analysis & Visualisation (Power BI, D3.JS, R, Python) | Web Development & Programming (C#, ASP.NET, Laravel, XML, XSLT, XPath, CPanel) | Designing (Photoshop, Figma)) | Project Management (Understanding of different methodologies)
+ </li>
+ 
   </ul>
   
-  ### My Technical Bucket Skill List
-  <ul>
-  <li>Python-This is my crush! I have been watching it for the past few months, but, R will be upset if I move to Python now. So, I will start it after few months when I become proficient in R at a certain level :)</li>
-  <li>Azure Data Engineer Certification -DP200 & DP 201, I  will do it by coming three months time. I felt learning cloud is very important, and Microsoft offers interesting cloud services. I will be doing some projects in Azure in the near future. 
-    <li>Apache Spark-I heard about this beast so many times, I will be working to learn it in Azure Databricks Environment</li>
-  <li>Machine Learning-I will start honing my skills in ML very soon probably from end of this month</li>
-  </ul>
+ 
   
  ### My Learning Resources
   <ul>
-  <li> Kaggle</li>
   <li>LinkedIn Learning</li>
   <li>Datacamp</li>
   <li>Udemy</li>
+    <li>FreeCodeCamp</li.
+    <li>YouTube</li>
   </ul>
   
  ### My Website
@@ -38,7 +31,12 @@ Hello world!
  ### My LinkedIn
   https://www.linkedin.com/in/dharmendrapuri/
   
-  ***At the moment, I have limited number of projects in Github, I am still working to gather it and push it. Stay tuned!
-  -----------------------------------HAPPY ANALYTICS------------------------------------------------------------------***
+  ### My CodePen
+  https://codepen.io/dharmendrapuri-the-decoder
+  
+  ### My Tableau Public
+  https://public.tableau.com/profile/dharmendra.puri8711#!/
+  
+
 
 
